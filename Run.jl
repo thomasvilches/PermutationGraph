@@ -13,3 +13,4 @@ A,B = PermutationGraph(a,Circ,EdgeList) ## The function receives an input vector
                                                         ### the first return element is a matrix in which the columns are each permutation 
 
 writedlm("Connetions.dat",B)
+writedlm("Permutations.dat",A)
